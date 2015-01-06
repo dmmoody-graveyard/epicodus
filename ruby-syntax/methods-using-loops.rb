@@ -34,3 +34,14 @@ end
 my_array = ["a", "b", "c"]
 my_array.upcase!()
 my_array
+
+class Range
+  define_method(:product) do
+    result = 1
+    self.each() do |number|
+      result = result.*(number)
+    end
+  end
+end
+
+(1..5).product()
