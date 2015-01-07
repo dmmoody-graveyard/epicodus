@@ -1,0 +1,1 @@
+The Epicodus repository is a place I am storing all the code writing of myself and my pair for the day.  Work represented in each project folder was done by myself and my pair during class hours.
